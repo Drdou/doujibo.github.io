@@ -13,7 +13,7 @@
 *Oligomer nanoparticles challenge the sustainability of biodegradable plastics.*  
 **Cell Reports Sustainability** 2025, 2(12), 100530. (Cover)  [DOI](https://doi.org/10.1016/j.crsus.2025.100530) 
 
-<img src="/images/paper11_cover.png" width="120" style="margin-top: 5px;">
+<img src="/images/paper11_cover.png" width="150" style="margin-top: 5px;">
 
 [10] **Jibo Dou**, Yichao Xu, Yunfei He, Ruoru Xu, Yao Yue, Feifei Chen, Yuchi Zhong, Xuetong Qu, Jiafeng Ding, Hangjun Zhang\*.  
 *Confined Fe(III) in carbon nitride shifted peroxymonosulfate activation from radical to high-valent iron pathways for efficient dioxin degradation.*  
@@ -35,14 +35,14 @@
 *Peroxydisulfate-Driven Reductive Dechlorination as Affected by Soil Constituents: Free Radical Formation and Conversion.*  
 **Environmental Science & Technology** 2024, 58(18), 8065–8075. (Supplementary Cover)  [DOI](https://doi.org/10.1021/acs.est.3c08759) 
 
-<img src="/images/paper7_cover.png" width="120" style="margin-top: 5px;">
+<img src="/images/paper7_cover.png" width="150" style="margin-top: 5px;">
 
 [6] **Jibo Dou**, Yao Tang, Zhijiang Lu, Guangzhi He, Jianming Xu, Yan He\*.  
 *Neglected but Efficient Electron Utilization Driven by Biochar-Coactivated Phenols and Peroxydisulfate: Polyphenol Accumulation Rather than Mineralization.*  
 **Environmental Science & Technology** 2023, 57(14), 5703–5713. (Supplementary Cover，Hot papers, highly cited papers)  
 [DOI](https://doi.org/10.1021/acs.est.3c00022) | [PDF](https://example.com/paper6.pdf)
 
-<img src="/images/paper6_cover.png" width="120" style="margin-top: 5px;">
+<img src="/images/paper6_cover.png" width="150" style="margin-top: 5px;">
 
 [5] **Jibo Dou**, Jie Cheng, Zhijiang Lu, Ziqi Tian, Jianming Xu, Yan He\*.  
 *Biochar co-doped with nitrogen and boron switching the free radical based peroxydisulfate activation into the electron-transfer dominated nonradical process.*  
