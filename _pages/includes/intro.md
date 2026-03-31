@@ -32,7 +32,7 @@ M.E. in Environmental Engineering, College of Urban and Environmental Sciences, 
 B.E. in Environmental Engineering, School of Materials and Chemical Engineering, Xi’an Technological University
 西安工业大学 材料与化工学院环境工程专业，工学学士
 
-Last update: 31 March 2026
+<span style="color: blue;">**Last update: 31 March 2026**</span>  
 
 
 
