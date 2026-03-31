@@ -40,7 +40,7 @@
 [6] **Jibo Dou**, Yao Tang, Zhijiang Lu, Guangzhi He, Jianming Xu, Yan He\*.  
 *Neglected but Efficient Electron Utilization Driven by Biochar-Coactivated Phenols and Peroxydisulfate: Polyphenol Accumulation Rather than Mineralization.*  
 **Environmental Science & Technology** 2023, 57(14), 5703–5713. (Supplementary Cover，Hot papers, highly cited papers)  
-[DOI](https://doi.org/10.1021/acs.est.3c00022) | [PDF](https://example.com/paper6.pdf)
+[DOI](https://doi.org/10.1021/acs.est.3c00022) 
 
 <img src="/images/paper6_cover.png" width="150" style="margin-top: 5px;">
 
