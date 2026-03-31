@@ -39,14 +39,14 @@
 
 [6] **Jibo Dou**, Yao Tang, Zhijiang Lu, Guangzhi He, Jianming Xu, Yan He\*.  
 *Neglected but Efficient Electron Utilization Driven by Biochar-Coactivated Phenols and Peroxydisulfate: Polyphenol Accumulation Rather than Mineralization.*  
-**Environmental Science & Technology** 2023, 57(14), 5703–5713. (Supplementary Cover)  
+**Environmental Science & Technology** 2023, 57(14), 5703–5713. (Supplementary Cover，Hot papers, highly cited papers)  
 [DOI](https://doi.org/10.1021/acs.est.3c00022) | [PDF](https://example.com/paper6.pdf)
 
 <img src="/images/paper6_cover.png" width="120" style="margin-top: 5px;">
 
 [5] **Jibo Dou**, Jie Cheng, Zhijiang Lu, Ziqi Tian, Jianming Xu, Yan He\*.  
 *Biochar co-doped with nitrogen and boron switching the free radical based peroxydisulfate activation into the electron-transfer dominated nonradical process.*  
-**Applied Catalysis B: Environmental** 2022, 301, 120832.  [DOI](https://doi.org/10.1016/j.apcatb.2021.120832) 
+**Applied Catalysis B: Environmental** 2022, 301, 120832. （Hot papers, highly cited papers） [DOI](https://doi.org/10.1016/j.apcatb.2021.120832) 
 
 [4] **Jibo Dou**, Junyu Chen, Qiang Huang, Hongye Huang, Liucheng Mao, Fengjie Deng, Yuanqing Wen, Xiaoli Zhu\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Preparation of polymer functionalized layered double hydroxide through mussel-inspired chemistry and Kabachnik–Fields reaction for highly efficient adsorption.*  
