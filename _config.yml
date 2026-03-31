@@ -152,6 +152,27 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# Navigation Bar
+nav:
+  - name: "Homepage"
+    link: "/"
+  - name: "About Me"
+    link: "/#about-me"
+  - name: "News"
+    link: "/#news"
+  - name: "Publications"
+    link: "/#publications"
+  - name: "Honors and Awards"
+    link: "/#honors-and-awards"
+  - name: "Educations"
+    link: "/#educations"
+  - name: "Invited Talks"
+    link: "/#invited-talks"
+  - name: "Gallery"
+    link: "/#gallery"
+  - name: "Research Projects"
+    link: "/#research-projects"
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
