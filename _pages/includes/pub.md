@@ -61,7 +61,7 @@
 [2] **Jibo Dou**, Defu Gan, Qiang Huang, Meiying Liu, Junyu Chen, Fengjie Deng, Xiaoli Zhu, Yuanqing Wen\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Functionalization of carbon nanotubes with chitosan based on MALI multicomponent reaction for Cu²⁺ removal.*  
 **International Journal of Biological Macromolecules** 2019, 136, 476–485.  
-[DOI](https://doi.org/10.1016/j.ijbiomac.2019.06.085) | [PDF](https://example.com/paper2.pdf)
+[DOI](https://doi.org/10.1016/j.ijbiomac.2019.06.112) | [PDF](https://example.com/paper2.pdf)
 
 [1] **Jibo Dou**, Qiang Huang, Hongye Huang, Defu Gan, Junyu Chen, Fengjie Deng, Yuanqing Wen, Xiaoli Zhu\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Mussel-inspired preparation of layered double hydroxides based polymer composites for removal of copper ions.*  
