@@ -18,15 +18,15 @@ Laboratory Assistant, College of Environmental and Resource Sciences, Zhejiang U
 
 - 2019/09 – 2024/04
 Ph.D. in Soil Science, College of Environmental and Resource Sciences, Zhejiang University
-Thesis Advisors: Prof. Yan He
+<div style="text-align: center;">Thesis Advisors: Prof. Yan He</div>
 
 - 2017/09 – 2018/12
 Joint Master's Training Program, College of Chemistry, Nanchang University
-Thesis Advisors: Prof. Xiaoyong Zhang
+<div style="text-align: center;">Thesis Advisors: Prof. Xiaoyong Zhang</div>
 
 - 2016/08 – 2019/06
 M.E. in Environmental Engineering, College of Urban and Environmental Sciences, Northwest University
-Thesis Advisors: Prof. Xiaoli Zhu
+<div style="text-align: center;">Thesis Advisors: Prof. Xiaoli Zhu</div>
 
 - 2012/09 – 2016/07
 B.E. in Environmental Engineering, School of Materials and Chemical Engineering, Xi’an Technological University
