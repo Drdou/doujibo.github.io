@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jibo Dou"
+title                    : "Jibo Dou(窦继博)"
 description              : "Focusing on environmental geochemistry."
 repository               : "doujibo.github.io"
 google_scholar_stats_use_cdn : true
