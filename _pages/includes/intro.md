@@ -3,6 +3,8 @@ I am currently working as a lecturer at the School of Engineering, Hangzhou Norm
 - 2025/12 – Present
 Lecturer, School of Engineering, Hangzhou Normal University
 
+- 2025/10 – Present
+Secretary to the Head of the Department of Environmental Engineering, School of Engineering, Hangzhou Normal University
 
 - 2024/08 – 2025/12
 Assistant Researcher, School of Engineering, Hangzhou Normal University
